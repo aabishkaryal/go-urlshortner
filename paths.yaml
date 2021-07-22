@@ -1,0 +1,4 @@
+- path: "/youtube"
+  url: "https://youtube.com"
+- path: "/wiki"
+  url: "https://wikipedia.org"
